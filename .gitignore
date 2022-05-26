@@ -1,5 +1,2 @@
-*.exe
-*.class
-c/
-java/
-python/
+c\holamundo
+java\HolaMundo.class
